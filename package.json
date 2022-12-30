@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Fomich3000/nightwatch-tutorial#readme",
   "devDependencies": {
     "chromedriver": "^80.0.0",
-    "nightwatch": "^1.3.4"
+    "nightwatch": "^1.4.0"
   }
 }
